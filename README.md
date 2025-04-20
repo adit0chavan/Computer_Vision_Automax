@@ -109,6 +109,18 @@ The model achieves high performance metrics:
 
 Training results, including charts and visualizations, are available in the `Training/runs/detect/train/` directory.
 
+### Training Metrics Visualization
+
+![Training Results](/Training/runs/detect/train/results.png)
+
+The above chart shows the model's performance metrics throughout the training process, including box loss, classification loss, and mean Average Precision.
+
+### Real-life Application Results
+
+![Real-life Detection Results](/Training/runs/detect/train/output.png)
+
+This image demonstrates the model's object detection capabilities in a real-world scenario, showing bounding boxes around detected objects along with confidence scores.
+
 ## Demo Video
 
 The repository includes test and result videos demonstrating the model's performance:
