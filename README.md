@@ -6,6 +6,12 @@ A computer vision project for object detection using YOLOv8 and Roboflow for dat
 
 This project implements a computer vision system for automatic object detection in video feeds. It utilizes YOLOv8 for object detection and tracking, and Roboflow for dataset management and labeling.
 
+## Team Members
+
+- **Saumya Shah** - [LinkedIn](https://www.linkedin.com/in/saumya-shah-9b2579273/)
+- **Bhavin Baldota** - [LinkedIn](https://www.linkedin.com/in/bhavin-baldota-103553234/)
+- **Aditya Chavan** - [LinkedIn](https://www.linkedin.com/in/aditya-chavan-5117aa268/)
+
 ### Key Features
 
 - Object detection and tracking in video streams
@@ -24,6 +30,7 @@ This project implements a computer vision system for automatic object detection 
 - [Making Predictions](#making-predictions)
 - [Results](#results)
 - [Demo Video](#demo-video)
+- [Team Members](#team-members)
 - [License](#license)
 
 ## Project Structure
@@ -130,6 +137,7 @@ The repository includes test and result videos demonstrating the model's perform
 - **Output Video**: `Output.mp4` contains the final processed video with object detection bounding boxes and counts
 
 These videos serve as practical demonstrations of the model's object detection capabilities in real-world scenarios.
+
 
 ## License
 
