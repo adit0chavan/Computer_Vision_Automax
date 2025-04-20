@@ -8,9 +8,11 @@ This project implements a computer vision system for automatic object detection 
 
 ## Team Members
 
+
+- **Aditya Chavan** - [LinkedIn](https://www.linkedin.com/in/aditya-chavan-5117aa268/)
 - **Saumya Shah** - [LinkedIn](https://www.linkedin.com/in/saumya-shah-9b2579273/)
 - **Bhavin Baldota** - [LinkedIn](https://www.linkedin.com/in/bhavin-baldota-103553234/)
-- **Aditya Chavan** - [LinkedIn](https://www.linkedin.com/in/aditya-chavan-5117aa268/)
+
 
 ### Key Features
 
